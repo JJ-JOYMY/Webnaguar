@@ -117,7 +117,7 @@ header {
     background-color: rgb(54, 51, 95);
     border: 1px solid rgb(83, 83, 83);
     margin-left: 50px;
-    margin-bottom: 17px;
+    margin-bottom: 20px;
     width: 625px;
     .comment-wrapper {
         padding: 15px 20px 5px 15px;
@@ -135,7 +135,7 @@ header {
 .blocktwo {
     display: inline-block;
     position: fixed;
-    right: 245px;
+    right: 255px;
     top: 213px;
     .box1 {
         background-color: rgb(133, 13, 13);
