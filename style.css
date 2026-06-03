@@ -136,7 +136,7 @@ header {
     display: inline-block;
     position: fixed;
     right: 245px;
-    top: 218px;
+    top: 213px;
     .box1 {
         background-color: rgb(133, 13, 13);
         padding: 8px 0px 0px;
@@ -169,7 +169,7 @@ header {
 
 .reply-section {
     margin-bottom: 11px;
-    margin-left: 526px;
+    margin-left: 523px;
 }
 
 summary {
