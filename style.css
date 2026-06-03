@@ -120,7 +120,7 @@ header {
     margin-bottom: 17px;
     width: 625px;
     .comment-wrapper {
-        padding: 13px 20px 5px 15px;
+        padding: 15px 20px 5px 15px;
     }
     .name {
         color:rgb(243, 207, 0);
@@ -128,7 +128,7 @@ header {
     }
     .comment {
         color: rgb(8, 8, 8);
-        margin-top: 10px;
+        margin-top: 6px;
     }
 }
 
